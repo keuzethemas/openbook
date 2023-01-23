@@ -11,6 +11,14 @@ Maar je hebt vaak veel meer projectdocumenten, zoals:
 
 Je moet een plek hebben waar je deze kunt aanmaken, inzien en bewaren.
 
+:::{figure} figs/github-logo-2.png
+:width: 100
+:align: right
+
+Github  
+Octocat
+:::
+
 GitHub (https://github.com)is begonnen als een plek voor het bewaren van de code-*repositories* van software projecten, voornamelijk van open source software. Inmiddels hebben heel veel open source projecten een plek op GitHub gevonden.
 
 Tegenwoordig biedt GitHub ook onderdak voor de andere documenten:
@@ -22,6 +30,13 @@ Tegenwoordig biedt GitHub ook onderdak voor de andere documenten:
 
 ## Code: versiebeheer
 
+:::{figure} figs/github-flow.png
+:width: 650
+
+GitHub flow
+
+:::
+
 Een software-project omvat meestal een groot aantal bestanden die samen een consistent geheel moeten vormen. Hiervoor is *versiebeheer* essentieel. 
 Tegenwoordig wordt daarvoor vaak *git* gebruikt, net als Linux bedacht door Linus Torvalds.
 Op basis van *git* maakt GitHub het mogelijk om een afgeleide versie te maken van een oorspronkelijke versie waarbij je wijzigingen in het origineel later nog kunt doorvoeren in de afgeleide versie, en omgekeerd.
@@ -32,18 +47,47 @@ GitHub maakt het ook mogelijk om de wijzigingen te koppelen aan *issues* die gem
 
 ## Issues
 
+:::{figure} figs/gh-issue-list.png
+:width: 300
+
+
+Lijst met issues
+
+:::
+
 GitHub maakt het de gebruikers van de software gemakkelijk om fouten, wensen en vragen te melden, die vervolgens in het project afgehandeld kunnen worden.
 
-> In Jupyter Book kan een gebruiker (mits deze een GitHub account heeft, zoals veel informatica-leerlingen) gemakkelijk een fout melden of een verbetering suggereren.
+:::{figure} figs/jb-issue-button.png
+:width: 250
+:align: right
+
+Melden van een issue
+
+:::
+
+In Jupyter Book kan een gebruiker (mits deze een GitHub account heeft, zoals veel informatica-leerlingen) gemakkelijk een fout melden of een verbetering suggereren.
 
 ## Projecten
+
+:::{figure} figs/jb-activity-board.png
+:width: 700
+
+
+Jupyter Book project - planning
+
+:::
 
 In een GitHub project kun je een planning maken op basis van taken, die gekoppeld kunnen zijn aan issues. Je kunt deze taken toewijzen aan personen; en je kunt de voorgang volgen, bijvoorbeeld via een "KanBan bord".
 
 ## Website
 
+:::{margin}
+Dit "open boek" is ook een voorbeeld van een statische website.
+:::
+
 Via GitHub Pages kun je een *statische website* maken bij een project, bijvoorbeeld als publiek gezicht van het project op het web.
-(Dit "open boek" is ook een voorbeeld van een statische website.)
+
+
 
 ## GitHub en het informatica-onderwijs
 
