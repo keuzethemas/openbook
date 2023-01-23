@@ -1,0 +1,31 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Open
+    chapters:
+    - file: inleiding
+    - file: open-netwerken
+    - file: open-formaten      
+    - file: open-bestuur
+    - file: open-content
+    - file: open-community
+    - file: open-tools
+    - file: open-werkplaats
+    - file: open-funding
+  
+  - caption: HTML
+    chapters:
+    - file: html-intro
+    - file: html-vervolg
+    - file: html-test
+    - file: markdown
+  
+  - caption: Rest
+    chapters:
+    - file: open-punten
+
+
