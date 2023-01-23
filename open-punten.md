@@ -12,7 +12,7 @@ Een voorbeeld is misschien "HTML" (en Markdown), versus Word ("WYSIWYG"). Als je
 
 * [x] figuur over afhankelijkheden van open source software
 * [x] deel over financiering (incl. slides)
-* [ ] html cursus
+* [x] html cursus
 * [ ] open tools
 * [ ] open community...
 
@@ -30,6 +30,15 @@ Voor de Coderclass hebben we verschillende ervaringen met tools: vanaf het begin
     * dit was geen essentieel onderdeel of product voor Mozilla
     
 Ook open leermaterialen maken gebruik van *tools*: gebruik bij voorkeur open source tools met een grote kans op continuïteit.   
+
+## (Open)Cursus
+Er wordt veel materiaal aangeboden. Soms met een sterk verdienmodel, soms om iedereen te helpen. De ervaring leert dat zodra de basis is gelegd er voldoende materiaal vrij beschikbaar is. In het bijzonder zijn deze plekken waardevol om te leren. W3Schools 
+
+* [W3Schools](https://www.w3schools.com/html/html_intro.asp)
+* [Dash - General Assembly](https://dash.generalassemb.ly/)
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
+
+Mocht je vastlopen dan is er het [i&i-forum](forum.ieni.org) of [Stackoverflow](www.stackoverflow.com). De eerste is een community van docenten in Nederland. Stackoverflow is een community met professionals en het niveau van de vragen kan behoorlijk intimiderend zijn. 
 
 ## Open source projecten?
 
