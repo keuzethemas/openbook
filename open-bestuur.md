@@ -10,10 +10,10 @@ De IETF: Internet Engineering Task Force legt de protocollen vast die de basis v
 
 De IETF verwelkomt nieuwkomers, en heeft een speciale gids voor mensen die voor het eerst een IETF-bijeenkomst bijwonen: de [Tao of IETF](https://www.ietf.org/about/participate/tao/).
 
-Enkele bekende RFC's zijn:
+Enkele bekende (en inmiddels verouderde) RFC's zijn:
 
 * RFC 791: Internet Protocol (het basis-protocol van het internet)
-* 
+* RFC 822: Internet Text Messages (e-mail berichten)
 
 De traditionele vorm waarin RFC's gepubliceerd worden is *platte tekst*. 
 Dit is een voorbeeld van het vermijden van niet-open hulpmiddelen in een open proces.
