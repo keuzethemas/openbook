@@ -27,5 +27,6 @@ parts:
   - caption: Rest
     chapters:
     - file: open-punten
+    - file: links
 
 

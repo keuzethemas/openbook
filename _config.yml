@@ -5,6 +5,8 @@ title: Open boek
 author: Eelco Dijkstra (i&i)
 logo: logo.png
 
+exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", node_modules]
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:

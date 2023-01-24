@@ -38,7 +38,7 @@ Er wordt veel materiaal aangeboden. Soms met een sterk verdienmodel, soms om ied
 * [Dash - General Assembly](https://dash.generalassemb.ly/)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css)
 
-Mocht je vastlopen dan is er het [i&i-forum](forum.ieni.org) of [Stackoverflow](www.stackoverflow.com). De eerste is een community van docenten in Nederland. Stackoverflow is een community met professionals en het niveau van de vragen kan behoorlijk intimiderend zijn. 
+Mocht je vastlopen dan is er het [i&i-forum](https://forum.ieni.org) of [Stackoverflow](https://www.stackoverflow.com). De eerste is een community van docenten in Nederland. Stackoverflow is een community met professionals en het niveau van de vragen kan behoorlijk intimiderend zijn. 
 
 ## Open source projecten?
 

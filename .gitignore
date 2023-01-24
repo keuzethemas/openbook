@@ -9,4 +9,4 @@ ext/sphinx-assessment
 elm-stuff/*
 .obsidian
 _build/*
-
+node_modules/*

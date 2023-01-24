@@ -4,6 +4,19 @@ Het schrijven van HTML-code is nogal omslachtig.
 Markdown is een manier om code te schrijven die eenvoudig in HTML omgezet kan worden.
 In veel omgevingen waar HTML gebruikt wordt kun je ook Markdown gebruiken.
 
+```
+# Kopje 1
+
+## Kopje 2
+
+Regel 1 van paragraaf 1.
+Regel 2 van paragraaf 1.
+
+* item 1
+* item 2
+* item 3
+```
+
 MyST is een variant van Markdown die gebruikt wordt in Jupyter Book,
 waarmee dit document gemaakt is.
 
@@ -19,5 +32,4 @@ Bijvoorbeeld: ???
 
 *Wikicode* is de notatie die gebruikt wordt in Wikipedia.
 Ook voor Wikicode zijn veel uitbreidingen beschikbaar.
-
 
